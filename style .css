@@ -1,0 +1,29 @@
+*{
+    padding: 1;
+    margin: 1;
+    flex-direction: column;
+}
+
+.section{
+    padding: 1%;
+    margin-top: 2%;
+}
+.about{
+    border: 2px solid black;
+    padding-left: 2%;
+    margin-bottom: 1%;
+}
+
+.img{
+    padding-left: 1%;
+    width: 100%;
+}
+
+.Trivia{
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+  
+  
+
+
